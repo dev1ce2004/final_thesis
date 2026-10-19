@@ -44,4 +44,4 @@ It argues for transparent systems and for keeping a **human in the loop** wherev
 
 ## Thesis
 
-The full thesis (in Croatian, with an English abstract) is available in [`thesis.pdf`](thesis.pdf).
+The full thesis (in Croatian, with an English abstract) is available in repo.
