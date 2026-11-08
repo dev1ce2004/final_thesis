@@ -1,0 +1,3 @@
+pysc2
+absl-py
+numpy
